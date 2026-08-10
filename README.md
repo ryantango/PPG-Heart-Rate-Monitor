@@ -8,23 +8,23 @@ measure heart rate using infrared optical sensing.
 ## System Architecture
 
 IR LED
-↓
+-->
 Finger
-↓
+-->
 BPW34 Photodiode
-↓
+-->
 MCP6002 Transimpedance Amplifier
-↓
+-->
 Analog RC Filter
-↓
+-->
 Arduino ADC
-↓
+-->
 Digital Signal Processing
-↓
+-->
 Peak Detection
-↓
+-->
 Heart Rate (BPM)
-↓
+-->
 OLED Display
 
 ## Hardware
