@@ -58,12 +58,12 @@ OLED Display
 
 ## Current Status
 
-Prototype under development.
+Working Prototype created; integrating potential improvements.
 
 ## Future Improvements
 
 - Finger-presence detection
-- BPM validation against commercial pulse oximeter
+- BPM validation against a commercial pulse oximeter
 - Python/MATLAB analysis
 - Custom PCB
 - Enclosure
